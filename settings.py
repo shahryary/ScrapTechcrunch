@@ -21,11 +21,11 @@ DOWNLOADER_STATS = True
 RANDOMIZE_DOWNLOAD_DELAY = True
 
 # Data base Settings
-DB_HOST = 'mbpsql.cbeodvh2mxmc.us-west-2.rds.amazonaws.com'
+DB_HOST = 'YOUR_DB_HOST'
 DB_PORT = 5432
-DB_USER = 'postgres'
-DB_PASSWD = 'Vt3hq7Sk'
-DB_DB = 'yashakhriaridizazhi'
+DB_USER = 'USER_NAME'
+DB_PASSWD = 'PASSWORD'
+DB_DB = 'DATABASE NAME'
 cp_min = 3
 cp_max = 10
 cp_noisy = True
